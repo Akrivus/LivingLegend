@@ -1,0 +1,16 @@
+*~
+.DS_Store
+Library
+*.csproj
+*.sln
+.vs
+.vscode
+Temp
+obj
+*.log
+ApiUpdaterCheck.txt
+.vsconfig
+*.dwlt
+
+UserSettings/
+3rdParty/
